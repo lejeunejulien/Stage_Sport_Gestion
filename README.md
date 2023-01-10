@@ -47,13 +47,13 @@ Les méthodes de cette interface reçoivent en paramètre la réf activité pour
 
 Afficher activité affiche
 
--> id activité - nom activité
+- id activité - nom activité
 
--> horaire
+- horaire
 
--> tarif
+- tarif
 
--> clients
+- clients
 
 -----------------------------------------------------------------------------
 
@@ -67,13 +67,13 @@ Liste Client qui contient les objets des différents clients
 
 ------------
 
--> class Afficher_client (utilise "Afficher tout" ou "Recherche" via Class Menu et Class Recherche)
+- class Afficher_client (utilise "Afficher tout" ou "Recherche" via Class Menu et Class Recherche)
 
--> class Ajouter_client (Client, Activité, Tarif spécial, Présence)
+- class Ajouter_client (Client, Activité, Tarif spécial, Présence)
 
--> class Modifier_client (Nom/Club, Tarif spécial, Présence)
+- class Modifier_client (Nom/Club, Tarif spécial, Présence)
 
--> class Supprimer_client (Nom/Club, Activité, Tarif spécial)
+- class Supprimer_client (Nom/Club, Activité, Tarif spécial)
 
 On utilise la fonctionnalité d'afficher_activité (afficher tout, recherche) et afficher_client (afficher tout, recherche) 
 pour sélectionner la réf client et sélectionner la réf activité et pour pouvoir Ajouter, Modifier et Supprimer
@@ -94,15 +94,15 @@ Afficher client via Recherche (Recherche client vs Affiche tout où le paiement 
 
 Pour chaque activité à laquelle le client est inscrit :
 
--> id + nom client et nom club
+- id + nom client et nom club
 
--> id activité et nom activité
+- id activité et nom activité
 
--> horaire
+- horaire
 
--> tarif activité
+- tarif activité
 
--> tarif client activité
+- tarif client activité
 
 A la fin de l'affichage des activités concernant le client (dans le cadre d'un affichage via recherche) :
 
@@ -120,16 +120,21 @@ Le projet contient une Class Menu qui interagit avec une Class Recherche
 
 Class Menu contient :
 
--> Menu afficher activité
--> Menu afficher client
--> Menu recherche activité
--> Menu recherche client
+- Menu afficher activité
+
+- Menu afficher client
+
+- Menu recherche activité
+
+- Menu recherche client
 
 Class Recherche contient : 
 
--> Recherche activité suivant nom
--> Recherche activité suivant date
--> Recherche nom client
+- Recherche activité suivant nom
+
+- Recherche activité suivant date
+
+- Recherche nom client
 
 Class Menu et Class Rechercge return une Arraylist qui est envoyée à la class Affichage activité ou à la class Affichage client
 
