@@ -143,5 +143,4 @@ Class Menu et Class Recherche return une Arraylist qui est envoyée à la class 
 -----------------------------------------------------
 
 Possible amélioration ->  Main activité et Main client a subdiviser pour rendre le code plus agréable à lire
-Utiliser une autre méthode pour stocker les données 
 
