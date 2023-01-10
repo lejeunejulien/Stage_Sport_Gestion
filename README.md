@@ -67,7 +67,7 @@ Liste Client qui contient les objets des différents clients
 
 ------------
 
--> class Afficher_client (afficher tout, Recherche)
+-> class Afficher_client (utilise "Afficher tout" ou "Recherche" via Class Menu et Class Recherche)
 
 -> class Ajouter_client (Client, Activité, Tarif spécial, Présence)
 
