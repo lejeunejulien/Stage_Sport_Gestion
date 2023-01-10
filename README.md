@@ -31,7 +31,7 @@ Liste Activité qui contient les objets des différentes activités
 
 -> class Supprimer_activité (Supprimer activités de même nom, Supprimer activité spécifique)
 
-On utilise la fonctionnalité d'afficher_activité (afficher tout, recherche) pour sélectionner la réf activité et pour pouvoir Ajouter, Modifier et Supprimer
+On utilise la fonctionnalité d'afficher_activité ("afficher tout" et "recherche" via class Menu et class recherche) pour sélectionner la réf activité et pour pouvoir Ajouter, Modifier et Supprimer
 Class Afficher_activité, Ajouter_activité, Modifier_activité, Supprimer_activité implémentent l'interface parametre activité
 
 Interface parametre activite qui contient :
