@@ -9,6 +9,7 @@ Repository activité et Repository client pour stocker listes des activités et 
 Exceptions (try, catch, throw, throws) dans un package avec une classe Personnalisée
 
 On ne peut pas créer des activités de même nom qui ont lieu en même temps
+
 On ne peut pas affecter des activités (peut importe le nom) qui ont lieu en même temps pour un client
 
 ----------------------------------------------------------------------------------------
