@@ -63,7 +63,7 @@ Dossier Client
 
 Class Client qui contient : Class ref_client, Class Activité, Boolean Présence
 
-Liste Client qui contient les objets des différentes clients
+Liste Client qui contient les objets des différents clients
 
 ------------
 
