@@ -41,7 +41,7 @@ Interface parametre activite qui contient :
 - Tarif
 - Présence
 
-Les méthodes de cette interface reçoivent en paramètre la réf activité
+Les méthodes de cette interface reçoivent en paramètre la réf activité pour pouvoir effectuer le traitement (Ajouter, Modifier ou Supprimer)
 
 -----------
 
