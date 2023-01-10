@@ -135,5 +135,5 @@ Class Menu et Class Rechercge return une Arraylist qui est envoyée à la class 
 
 -----------------------------------------------------
 
-Possible amélioration ->  Main activité et Main client a subdiviser pour rendre le code un peu agréable à lire
+Possible amélioration ->  Main activité et Main client a subdiviser pour rendre le code plus agréable à lire
 
