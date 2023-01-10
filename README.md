@@ -23,13 +23,13 @@ Liste Activité qui contient les objets des différentes activités
 
 ------------
 
--> class Afficher_activité (utilise "Afficher tout" ou "Recherche" via Class Menu et Class Recherche)
+- class Afficher_activité (utilise "Afficher tout" ou "Recherche" via Class Menu et Class Recherche)
 
--> class Ajouter_activité (Activité, Horaire, Tarif, Présence)
+- class Ajouter_activité (Activité, Horaire, Tarif, Présence)
 
--> class Modifier_activité (Nom, Horaire, tarif, Présence)
+- class Modifier_activité (Nom, Horaire, tarif, Présence)
 
--> class Supprimer_activité (Supprimer activités de même nom, Supprimer activité spécifique)
+- class Supprimer_activité (Supprimer activités de même nom, Supprimer activité spécifique)
 
 On utilise la fonctionnalité d'afficher_activité ("afficher tout" et "recherche" via class Menu et class recherche) pour sélectionner la réf activité et pour pouvoir Ajouter, Modifier et Supprimer
 
