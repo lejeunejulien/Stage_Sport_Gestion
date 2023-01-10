@@ -39,7 +39,7 @@ Interface parametre activite qui contient :
 - Tarif
 - Présence
 
-Ces méthodes de cette interface reçoivent en paramètre la réf activité
+Les méthodes de cette interface reçoivent en paramètre la réf activité
 
 Afficher activité affiche
 -> id activité - nom activité
