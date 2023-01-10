@@ -84,6 +84,7 @@ Interface parametre activite qui contient :
 
 Ces méthodes de cette interface reçoivent en paramètre la réf activité et la réf client
 
+------------------
 
 Afficher client (Recherche) affiche : 
 
