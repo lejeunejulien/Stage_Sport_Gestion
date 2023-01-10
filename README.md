@@ -76,11 +76,11 @@ Liste Client qui contient les objets des différents clients
 -> class Supprimer_client (Nom/Club, Activité, Tarif spécial)
 
 On utilise la fonctionnalité d'afficher_activité (afficher tout, recherche) et afficher_client (afficher tout, recherche) 
-pour sélectionner la réf client, sélectionner la réf activité et pour pouvoir Ajouter, Modifier et Supprimer
+pour sélectionner la réf client et sélectionner la réf activité et pour pouvoir Ajouter, Modifier et Supprimer
 
 Class Afficher_client, Ajouter_client, Modifier_client, Supprimer_client implémentent l'interface parametre client
 
-Interface parametre activite qui contient :
+Interface parametre client qui contient :
 - Nom
 - Activité
 - Tarif spécial
