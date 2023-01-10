@@ -17,6 +17,7 @@ Dossier Activité
 ----------------
 
 Class Activité qui contient : Class ref_activité, Class horaire activité, Class tarif activité
+
 Liste Activité qui contient les objets des différentes activités 
 
 ------------
