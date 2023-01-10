@@ -23,7 +23,7 @@ Liste Activité qui contient les objets des différentes activités
 
 ------------
 
--> class Afficher_activité (Afficher tout, Recherche)
+-> class Afficher_activité (utiliser "Afficher tout" ou "Recherche" via Class Menu et Class Recherche)
 
 -> class Ajouter_activité (Activité, Horaire, Tarif, Présence)
 
