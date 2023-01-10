@@ -45,7 +45,7 @@ Les méthodes de cette interface reçoivent en paramètre la réf activité pour
 
 -----------
 
-Afficher activité affiche
+"Afficher activité" affiche
 
 - id activité - nom activité
 
