@@ -138,7 +138,7 @@ Class Recherche contient :
 - Recherche nom client
 
 
-Class Menu et Class Rechercge return une Arraylist qui est envoyée à la class Affichage activité ou à la class Affichage client
+Class Menu et Class Recherche return une Arraylist qui est envoyée à la class Affichage activité ou à la class Affichage client
 
 -----------------------------------------------------
 
