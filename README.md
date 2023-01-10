@@ -90,11 +90,11 @@ Ces méthodes de cette interface reçoivent en paramètre la réf activité et l
 
 ------------------
 
-Afficher client (Recherche) affiche : 
+Afficher client via Recherche (Recherche client vs Affiche tout où le paiement du client n'apparaît pas) affiche : 
 
 Pour chaque activité à laquelle le client est inscrit :
 
--> id - nom client et nom club
+-> id + nom client et nom club
 
 -> id activité et nom activité
 
@@ -104,7 +104,7 @@ Pour chaque activité à laquelle le client est inscrit :
 
 -> tarif client activité
 
-A la fin de l'affichage des activités :
+A la fin de l'affichage des activités concernant le client (dans le cadre d'un affichage via recherche) :
 
 Paiement client (remise de prix, assurance annulation, prix total)
 
