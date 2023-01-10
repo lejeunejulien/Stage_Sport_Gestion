@@ -61,7 +61,8 @@ Dossier Client
 --------------
 
 
-Class Client qui contient : Class ref_client, Class Activité, Boolean présence
+Class Client qui contient : Class ref_client, Class Activité, Boolean Présence
+
 Liste Client qui contient les objets des différentes clients
 
 ------------
@@ -110,6 +111,7 @@ Paiement client (remise de prix, assurance annulation, prix total)
 ---------------------------------------------------------
 
 Présence (Ajouter, Modifier) pour Client et Activité 
+
 Sélectionne la ref client et la ref activité et effectue le traitement souhaité
 
 --------------------------------------------------------------
