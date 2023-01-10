@@ -4,7 +4,7 @@ UTF8
 Main Principal
 Main activité et Main client (personnes à inscrire)
 
-Repository activité et Repository client pour stocker listes des activités et des clients
+Repository activité et Repository client pour stocker la liste des activités et la liste des clients
 
 Exceptions (try, catch, throw, throws) dans un package avec une classe Personnalisée
 
