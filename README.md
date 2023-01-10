@@ -41,6 +41,8 @@ Interface parametre activite qui contient :
 
 Les méthodes de cette interface reçoivent en paramètre la réf activité
 
+-----------
+
 Afficher activité affiche
 -> id activité - nom activité
 
